@@ -7,8 +7,6 @@ import {Provider} from 'react-redux';
 import {store} from './Redux/stored/index'
 
 
-import 'bulma/css/bulma.min.css'
-
 ReactDOM.render(
 
   <Provider store = {store}>
